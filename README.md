@@ -1,0 +1,2 @@
+# PythonProgrammingCourse
+following course exercises 
